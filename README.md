@@ -1,2 +1,2 @@
 # C_source
-C code
+C code for training 
