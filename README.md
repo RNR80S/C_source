@@ -1,2 +1,2 @@
-# C_source
-C code for training 
+#Source
+Code for training 
